@@ -65,7 +65,3 @@ Contributions to the Google Gemini-Pro Chat Application are welcome! If you have
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contact
-
--   Hema Kalyan - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
